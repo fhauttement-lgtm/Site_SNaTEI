@@ -1,0 +1,3 @@
+[build]
+  command = "npm install --no-audit --no-fund && npm run build"
+  publish = "dist"
